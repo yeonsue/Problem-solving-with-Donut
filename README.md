@@ -5,7 +5,7 @@
 
 ## 2. put openai api to .env file
 
-## 3. pip install /n
+## 3. pip install
 ### pip install . 
 ### pip install openai
 ### pip install streamlit
