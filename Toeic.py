@@ -7,7 +7,7 @@ from donut import DonutModel
 from langchain.chat_models import ChatOpenAI
 from langchain.schema.messages import HumanMessage, SystemMessage
 load_dotenv()
-model = DonutModel.from_pretrained("finetuned-model")
+model = DonutModel.from_pretrained("finetune-model")
 #이미지 입력 받기
 st.title('Get Answer!')
 
