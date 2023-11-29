@@ -7,6 +7,9 @@
 
 ## 3. pip install
 #### pip install . 
+#### pip install timm==0.5.4
+#### pip install python-dotenv
+#### pip install langchain
 #### pip install openai
 #### pip install streamlit
 
